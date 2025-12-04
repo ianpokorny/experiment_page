@@ -3,7 +3,6 @@ particles.length = 2000;
 let zMax = 10;
 let zMin = 0.2;
 
-
 function setup() 
 {
   createCanvas(1000, 600);
